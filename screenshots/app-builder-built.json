@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "TERNION",
+      "hasCanvas": false,
+      "bodyTextLen": 796,
+      "bodyTextHash": "7f6aec1dcb14de622fe253daf8cf5714168cbc382867a0b0f0321b9ca4f373ef",
+      "bodyTextPrefix": "TERNION V8 IDLE Hold all three states. Paste a problem, a decisi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "TERNION",
+      "hasCanvas": false,
+      "bodyTextLen": 773,
+      "bodyTextHash": "945750bd139b1e4c26aba568b57f5f04226dd66c6e8f43e20d194fb639fd655f",
+      "bodyTextPrefix": "TERNION Hold all three states. Paste a problem, a decision, or a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
