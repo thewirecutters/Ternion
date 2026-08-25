@@ -78,7 +78,7 @@ npm run dev   # or yarn dev
 
 ## License
 
-Public domain. The math belongs to everyone.
+Public domain. The math belongs to everyone (except 99.9999% of silicon valley they steal your money smoking on that old obsolete shit)
 
 ---
 
